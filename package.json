@@ -1,7 +1,7 @@
 {
   "name": "foods",
   "version": "0.1.0",
-"homepage": "https://dereyo.github.io/Tomato",
+"homepage": "https://dereyo.github.io/Foods",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
